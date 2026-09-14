@@ -1,3 +1,4 @@
+![AI Multi-Agent Financial Research Platform v2.1](fceb86d5-ed20-4d2e-a638-386988d74143.png)
 # AI Multi-Agent Financial Research Platform v2.1
 
 An AI-powered multi-agent financial research and decision-intelligence platform combining **9 specialist agents**, quantitative market analysis, risk controls, adaptive weighting and a real **GPT-5.6 research layer**.
